@@ -824,5 +824,25 @@
   {
     "fact": "Anime industry is worth over $20 billion in Japan.",
     "category": "entertainment"
+  },
+  {
+    "fact": "Japan has a 99% literacy rate.",
+    "category": "education"
+  },
+  {
+    "fact": "There are over 150,000 vending machines in Japan.",
+    "category": "culture"
+  },
+  {
+    "fact": "Hello Kitty was created in Japan.",
+    "category": "entertainment"
+  },
+  {
+    "fact": "Mario was created by a Japanese developer.",
+    "category": "gaming"
+  },
+  {
+    "fact": "Pokemon is the highest-grossing media franchise ever.",
+    "category": "entertainment"
   }
 ]

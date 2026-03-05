@@ -411,5 +411,40 @@
     "english": "Troublesome",
     "anime": "Various",
     "character": "Various"
+  },
+  {
+    "japanese": "死",
+    "romaji": "Shi",
+    "english": "Death",
+    "anime": "Death Note",
+    "character": "Various"
+  },
+  {
+    "japanese": "命",
+    "romaji": "Inochi",
+    "english": "Life",
+    "anime": "Various",
+    "character": "Various"
+  },
+  {
+    "japanese": "愛",
+    "romaji": "Ai",
+    "english": "Love",
+    "anime": "Various",
+    "character": "Various"
+  },
+  {
+    "japanese": "希望",
+    "romaji": "Kibou",
+    "english": "Hope",
+    "anime": "Various",
+    "character": "Various"
+  },
+  {
+    "japanese": "絶望",
+    "romaji": "Zetsubou",
+    "english": "Despair",
+    "anime": "Various",
+    "character": "Various"
   }
 ]
