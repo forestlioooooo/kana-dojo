@@ -245,10 +245,17 @@
     "character": "Ichigo Kurosaki"
   },
   {
-    "japanese": "やれやれだぜ",
-    "romaji": "Yare yare da ze",
-    "english": "Good grief.",
-    "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
-    "character": "Jotaro Kujo"
-  }
+  "japanese": "大丈夫、僕最強だから",
+  "romaji": "Daijoubu, boku saikyou dakara",
+  "english": "Relax, I'm the strongest.",
+  "anime": "Jujutsu Kaisen",
+  "character": "Satoru Gojo"
+  },
+  {
+  "japanese": "マママママ",
+  "romaji": "Mama mama mama",
+  "english": "Mama mama mama. (alt wording 29)",
+  "anime": "One Piece",
+  "character": "Charlotte Linlin (Big Mom)"
+}
 ]

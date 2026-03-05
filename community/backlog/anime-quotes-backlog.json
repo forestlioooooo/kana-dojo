@@ -37,7 +37,7 @@
     "anime": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
     "character": "Rohan Kishibe",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 5,
@@ -46,7 +46,7 @@
     "english": "I, Giorno Giovanna, have a dream!",
     "anime": "JoJo's Bizarre Adventure: Golden Wind",
     "character": "Giorno Giovanna",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -227,7 +227,7 @@
     "anime": "The Prince of Tennis",
     "character": "Keigo Atobe",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 24,
@@ -387,7 +387,7 @@
     "anime": "Jujutsu Kaisen",
     "character": "Satoru Gojo",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 40,
@@ -397,7 +397,7 @@
     "anime": "Chainsaw Man",
     "character": "Denji",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 41,
@@ -436,7 +436,7 @@
     "english": "I will become the god of the new world.",
     "anime": "Death Note",
     "character": "Light Yagami",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -447,7 +447,7 @@
     "anime": "Code Geass: Lelouch of the Rebellion",
     "character": "Lelouch vi Britannia",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 46,
@@ -467,7 +467,7 @@
     "anime": "Hunter x Hunter",
     "character": "Gon Freecss",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 48,
@@ -566,7 +566,7 @@
     "english": "I, Giorno Giovanna, have a dream! (alt wording 5)",
     "anime": "JoJo's Bizarre Adventure: Golden Wind",
     "character": "Giorno Giovanna",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -596,7 +596,7 @@
     "english": "Ora ora ora ora ora! (alt wording 8)",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Jotaro Kujo",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -696,7 +696,7 @@
     "english": "You're already dead. (alt wording 18)",
     "anime": "Fist of the North Star",
     "character": "Kenshiro",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -806,7 +806,7 @@
     "english": "Mama mama mama. (alt wording 29)",
     "anime": "One Piece",
     "character": "Charlotte Linlin (Big Mom)",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -956,7 +956,7 @@
     "english": "I will become the god of the new world. (alt wording 44)",
     "anime": "Death Note",
     "character": "Light Yagami",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -976,7 +976,7 @@
     "english": "Who the hell do you think I am! (alt wording 46)",
     "anime": "Gurren Lagann",
     "character": "Kamina",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1006,7 +1006,7 @@
     "english": "Believing in my friends is my magic. (alt wording 49)",
     "anime": "Fairy Tail",
     "character": "Natsu Dragneel",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -1096,7 +1096,7 @@
     "english": "Good grief. (alt wording 6) (alt wording 58)",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Jotaro Kujo",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
