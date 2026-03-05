@@ -752,5 +752,17 @@
   {
     "fact": "There are more pets than children in Japan.",
     "category": "culture"
+  },
+  {
+    "fact": "Japan has over 6,800 islands but only about 430 are inhabited.",
+    "category": "geography"
+  },
+  {
+    "fact": "The Japanese rail system is one of the most punctual in the world.",
+    "category": "culture"
+  },
+  {
+    "fact": "There are no street addresses in Japan in the Western sense.",
+    "category": "culture"
   }
 ]
