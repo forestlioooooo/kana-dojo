@@ -804,5 +804,25 @@
   {
     "fact": "Japan has 21 UNESCO World Heritage Sites.",
     "category": "culture"
+  },
+  {
+    "fact": "Japanese people eat KFC for Christmas dinner.",
+    "category": "food"
+  },
+  {
+    "fact": "Slurping noodles is considered polite in Japan.",
+    "category": "etiquette"
+  },
+  {
+    "fact": "Business cards should be given and received with two hands.",
+    "category": "etiquette"
+  },
+  {
+    "fact": "Many Japanese homes have tatami mat flooring.",
+    "category": "culture"
+  },
+  {
+    "fact": "Anime industry is worth over $20 billion in Japan.",
+    "category": "entertainment"
   }
 ]

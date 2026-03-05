@@ -376,5 +376,40 @@
     "english": "Demon",
     "anime": "Demon Slayer",
     "character": "Nezuko"
+  },
+  {
+    "japanese": "汚い",
+    "romaji": "Kitanai",
+    "english": "Dirty",
+    "anime": "Various",
+    "character": "Various"
+  },
+  {
+    "japanese": "強い",
+    "romaji": "Tsuyoi",
+    "english": "Strong",
+    "anime": "Various",
+    "character": "Various"
+  },
+  {
+    "japanese": "弱い",
+    "romaji": "Yowai",
+    "english": "Weak",
+    "anime": "Various",
+    "character": "Various"
+  },
+  {
+    "japanese": "面白い",
+    "romaji": "Omoshiroi",
+    "english": "Interesting",
+    "anime": "Various",
+    "character": "Various"
+  },
+  {
+    "japanese": "面倒",
+    "romaji": "Mendou",
+    "english": "Troublesome",
+    "anime": "Various",
+    "character": "Various"
   }
 ]
