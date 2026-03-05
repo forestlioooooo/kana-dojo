@@ -770,5 +770,13 @@
   {
     "fact": "The Japanese word for thank you is arigatou.",
     "category": "language"
+  },
+  {
+    "fact": "The Japanese flag represents the sun.",
+    "category": "culture"
+  },
+  {
+    "fact": "Japan has 47 prefectures.",
+    "category": "geography"
   }
 ]

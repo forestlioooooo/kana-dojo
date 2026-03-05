@@ -313,5 +313,26 @@
     "english": "Link",
     "anime": "Pokemon",
     "character": "Pikachu"
+  },
+  {
+    "japanese": "行くぞ",
+    "romaji": "Ikuzo",
+    "english": "Let's go",
+    "anime": "Various",
+    "character": "Various"
+  },
+  {
+    "japanese": "何!",
+    "romaji": "Nani!",
+    "english": "What!",
+    "anime": "Various",
+    "character": "Various"
+  },
+  {
+    "japanese": "大概",
+    "romaji": "Gatai",
+    "english": "Probably",
+    "anime": "Various",
+    "character": "Various"
   }
 ]
