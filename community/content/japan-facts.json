@@ -814,5 +814,9 @@
   {
     "fact": "Japan has many unique regional dialects.",
     "category": "language"
+  },
+  {
+    "fact": "Japanese cuisine is UNESCO intangible cultural heritage.",
+    "category": "food"
   }
 ]

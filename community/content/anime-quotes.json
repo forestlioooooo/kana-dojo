@@ -446,5 +446,26 @@
     "english": "Busy",
     "anime": "Various",
     "character": "Various"
+  },
+  {
+    "japanese": "美味しい",
+    "romaji": "Oishii",
+    "english": "Delicious",
+    "anime": "Food",
+    "character": "Food"
+  },
+  {
+    "japanese": "まずい",
+    "romaji": "Mazui",
+    "english": "Not tasty",
+    "anime": "Food",
+    "character": "Food"
+  },
+  {
+    "japanese": "空腹",
+    "romaji": "Kufuku",
+    "english": "Hungry",
+    "anime": "State",
+    "character": "State"
   }
 ]
