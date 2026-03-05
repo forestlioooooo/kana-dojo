@@ -355,5 +355,26 @@
     "english": "I AM THE STRONGEST",
     "anime": "One Punch Man",
     "character": "Saitama"
+  },
+  {
+    "japanese": " демон",
+    "romaji": "Demon",
+    "english": "Demon",
+    "anime": "Demon Slayer",
+    "character": "Tanjiro"
+  },
+  {
+    "japanese": "猗窩座",
+    "romaji": "Akaza",
+    "english": "Upper Moon 3",
+    "anime": "Demon Slayer",
+    "character": "Akaza"
+  },
+  {
+    "japanese": "禰豆子",
+    "romaji": "Nezuko",
+    "english": "Demon",
+    "anime": "Demon Slayer",
+    "character": "Nezuko"
   }
 ]
