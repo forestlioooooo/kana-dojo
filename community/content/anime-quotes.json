@@ -355,5 +355,40 @@
     "english": "Understood/Acknowledged",
     "anime": "Various",
     "character": "Various"
+  },
+  {
+    "japanese": "了解",
+    "romaji": "Ryoukai",
+    "english": "Understood",
+    "anime": "Various",
+    "character": "Various"
+  },
+  {
+    "japanese": "宜しく",
+    "romaji": "Yoroshiku",
+    "english": "Please treat me well",
+    "anime": "Various",
+    "character": "Various"
+  },
+  {
+    "japanese": "面倒",
+    "romaji": "Mendou",
+    "english": "Troublesome",
+    "anime": "Various",
+    "character": "Various"
+  },
+  {
+    "japanese": "厄年",
+    "romaji": "Yakudoshi",
+    "english": "Unlucky year",
+    "anime": "Cultural",
+    "character": "Cultural"
+  },
+  {
+    "japanese": "縁起",
+    "romaji": "Engi",
+    "english": "Fortune/Luck",
+    "anime": "Cultural",
+    "character": "Cultural"
   }
 ]

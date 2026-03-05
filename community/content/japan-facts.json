@@ -786,5 +786,17 @@
   {
     "fact": "The Japanese economy is the third largest in the world.",
     "category": "economy"
+  },
+  {
+    "fact": "Temple stays are a popular way to experience Japanese culture.",
+    "category": "culture"
+  },
+  {
+    "fact": "Japan has many unique festivals throughout the year.",
+    "category": "culture"
+  },
+  {
+    "fact": "Cherry blossom season is a major event in Japan.",
+    "category": "culture"
   }
 ]
