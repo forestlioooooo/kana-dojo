@@ -250,5 +250,19 @@
     "english": "Good grief.",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Jotaro Kujo"
+  },
+  {
+    "japanese": "俺は漢",
+    "romaji": "Ore wa otoko da",
+    "english": "I am a man",
+    "anime": "Gintama",
+    "character": "Sakata Gintoki"
+  },
+  {
+    "japanese": "死んでくれ",
+    "romaji": "Shinde kure",
+    "english": "Die",
+    "anime": "JoJo's Bizarre Adventure",
+    "character": "Dio Brando"
   }
 ]
