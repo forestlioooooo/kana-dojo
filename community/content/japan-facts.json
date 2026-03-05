@@ -764,5 +764,25 @@
   {
     "fact": "There are no street addresses in Japan in the Western sense.",
     "category": "culture"
+  },
+  {
+    "fact": "Japan has a railway system with over 27,000 km of operational tracks.",
+    "category": "transportation"
+  },
+  {
+    "fact": "Akihabara is the center of anime culture in Tokyo.",
+    "category": "culture"
+  },
+  {
+    "fact": "Japan has over 100 active volcanoes.",
+    "category": "geography"
+  },
+  {
+    "fact": "Japanese uses three scripts: Kanji, Hiragana, and Katakana.",
+    "category": "language"
+  },
+  {
+    "fact": "Mount Fuji is the tallest mountain in Japan at 3,776 meters.",
+    "category": "geography"
   }
 ]
