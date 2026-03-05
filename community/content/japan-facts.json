@@ -798,5 +798,17 @@
   {
     "fact": "Cherry blossom season is a major event in Japan.",
     "category": "culture"
+  },
+  {
+    "fact": "Japanese business culture values punctuality highly.",
+    "category": "business"
+  },
+  {
+    "fact": "Business cards exchange is a ritual in Japanese business.",
+    "category": "business"
+  },
+  {
+    "fact": "Japanese work culture is known for dedication.",
+    "category": "business"
   }
 ]

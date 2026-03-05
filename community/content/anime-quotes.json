@@ -390,5 +390,40 @@
     "english": "Fortune/Luck",
     "anime": "Cultural",
     "character": "Cultural"
+  },
+  {
+    "japanese": "お疲れ様",
+    "romaji": "Otsukaresama",
+    "english": "Good work",
+    "anime": "Work",
+    "character": "Work"
+  },
+  {
+    "japanese": "分かりました",
+    "romaji": "Wakarimashita",
+    "english": "I understand",
+    "anime": "Various",
+    "character": "Various"
+  },
+  {
+    "japanese": "お願いします",
+    "romaji": "Onegaishimasu",
+    "english": "Please",
+    "anime": "Various",
+    "character": "Various"
+  },
+  {
+    "japanese": "ありがとうございます",
+    "romaji": "Arigatou gozaimasu",
+    "english": "Thank you very much",
+    "anime": "Various",
+    "character": "Various"
+  },
+  {
+    "japanese": "すみません",
+    "romaji": "Sumimasen",
+    "english": "Excuse me/Sorry",
+    "anime": "Various",
+    "character": "Various"
   }
 ]
