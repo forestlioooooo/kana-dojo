@@ -425,5 +425,26 @@
     "english": "Excuse me/Sorry",
     "anime": "Various",
     "character": "Various"
+  },
+  {
+    "japanese": "なるほど",
+    "romaji": "Naruhodo",
+    "english": "I see/That makes sense",
+    "anime": "Various",
+    "character": "Various"
+  },
+  {
+    "japanese": "本当に",
+    "romaji": "Hontou ni",
+    "english": "Really/Truly",
+    "anime": "Various",
+    "character": "Various"
+  },
+  {
+    "japanese": "忙しい",
+    "romaji": "Isogashii",
+    "english": "Busy",
+    "anime": "Various",
+    "character": "Various"
   }
 ]
