@@ -292,5 +292,26 @@
     "english": "Demon",
     "anime": "Demon Slayer",
     "character": "Tanjiro"
+  },
+  {
+    "japanese": "俺のターン",
+    "romaji": "Ore no taan",
+    "english": "My turn",
+    "anime": "Yu-Gi-Oh",
+    "character": "Yugi"
+  },
+  {
+    "japanese": "遊戯王",
+    "romaji": "Yu-Gi-Oh",
+    "english": "King of Games",
+    "anime": "Yu-Gi-Oh",
+    "character": "Yugi"
+  },
+  {
+    "japanese": "inker",
+    "romaji": "Linker",
+    "english": "Link",
+    "anime": "Pokemon",
+    "character": "Pikachu"
   }
 ]

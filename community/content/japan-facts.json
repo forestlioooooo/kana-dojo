@@ -762,5 +762,13 @@
   {
     "fact": "The Japanese rail system is one of the most punctual in the world.",
     "category": "transportation"
+  },
+  {
+    "fact": "Japan hosted the 2020 Summer Olympics in Tokyo.",
+    "category": "sports"
+  },
+  {
+    "fact": "The Japanese word for thank you is arigatou.",
+    "category": "language"
   }
 ]
