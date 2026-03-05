@@ -778,5 +778,13 @@
   {
     "fact": "Japan has 47 prefectures.",
     "category": "geography"
+  },
+  {
+    "fact": "Japan has a unique bullet train system called Shinkansen.",
+    "category": "transportation"
+  },
+  {
+    "fact": "The Japanese economy is the third largest in the world.",
+    "category": "economy"
   }
 ]

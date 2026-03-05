@@ -334,5 +334,26 @@
     "english": "Probably",
     "anime": "Various",
     "character": "Various"
+  },
+  {
+    "japanese": "参る",
+    "romaji": "Mairu",
+    "english": "To go/come (humble)",
+    "anime": "Various",
+    "character": "Various"
+  },
+  {
+    "japanese": "頂戴",
+    "romaji": "Choudai",
+    "english": "Please give me (humble)",
+    "anime": "Various",
+    "character": "Various"
+  },
+  {
+    "japanese": "了承",
+    "romaji": "Ryoukai",
+    "english": "Understood/Acknowledged",
+    "anime": "Various",
+    "character": "Various"
   }
 ]
